@@ -1,0 +1,116 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "Inhales"
+description: > # this means to ignore newlines until "email:"
+   Captured breath from the Digital World
+
+url: http://inhal.es
+
+email: tim.klapdor@gmail.com
+#blog logo
+logo: "/assets/images/inhale-logo.png"
+# blog cover
+cover: "/assets/images/inhale-1.jpg"
+
+name: 'Tim Klapdor'
+author: 'Tim Klapdor'
+author_image: "/assets/images/closeup-240.jpg"
+
+paginate: 20
+
+# social icons and sharing options
+social:
+  - icon: twitter
+    url: https://twitter.com/timklapdor
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon: facebook
+#    url: https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon: github
+    url: https://github.com/timklapdor
+    desc: Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon: google-plus
+#    url: https://google.com/???
+#    desc: Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+
+  - icon: rss
+    url: http://inhal.es/feed.xml
+    desc: Subscribe
+    share_url:
+    share_title:
+    share_link:
+    
+  - icon: envelope
+    url: mailto:tim.klapdor@gmail.com
+    desc: Email
+    share_url:
+    share_title:
+    share_link:
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://timklapdor.github.io/inhale/'
+  media: 'assets/article-images'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          label: "Layout"
+          value: "post"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          value: "CURRENT_DATETIME"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add categories"
+          placeholder: "Choose categories"
+          value: post
+          options:
+            - name: "post"
+              value: post
+            - name: "article"
+              value: article
+            - name: "podcast"
+              value: podcast
+            - name: "quote"
+              value: quote
+            - name: "video"
+              value: video
+          alterable: true
+      - name: "tags"
+        field:
+          element: "text"
+          label: "Tags"
+          placeholder: "Enter tags, separated by spaces"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured Image"
+          placeholder: "/assets/article_images/somefile.jpg"
