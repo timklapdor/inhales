@@ -67,7 +67,7 @@ social:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://timklapdor.github.io/inhale/'
+  siteurl: 'http://timklapdor.github.io/inhales/'
   media: 'assets/article-images'
   metadata:
     _posts:
