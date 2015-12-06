@@ -1,12 +1,13 @@
 ---
 layout: post
-date: "2015-12-06 23:28 +1100"
+date: "2015-12-06 23:28:00"
 categories: 
   - article
 tags: "guns, america, "
-image: ""
-published: false
+image: "/assets/article_images/guns-in-america.jpg"
+published: true
 title: End the Gun Epidemic in America
+
 ---
 
 This opinion piece was on the front page of the New York Times. I don't understand the gun culture of America, to me it's as dissonant and illogical as fundamentalist religions. But this, this quote cuts through all the bullshit:
