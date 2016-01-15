@@ -6,7 +6,7 @@ categories: podcast
 tags: 'big data', complexity, expertise, confidence, insight,
 image: /assets/article_images/big-data.jpg
 published: true
-title: 'We’re all data now'
+title: We’re all data now
 
 ---
 
