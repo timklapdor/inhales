@@ -3,7 +3,7 @@
 layout: post
 date: 2016-01-15 22:30
 categories: podcast
-tags: 'big data', complexity, expertise, confidence, insight,
+tags: big data, complexity, expertise, confidence, insight,
 image: /assets/article_images/big-data.jpg
 published: true
 title: We’re all data now
