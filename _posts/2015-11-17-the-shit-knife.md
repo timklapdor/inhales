@@ -1,14 +1,13 @@
 ---
 layout: post
 date: "2015-11-17 11:07 +1100"
-categories: 
-  - podcast
+categories: podcast
 tags: indigenous stories ingenuity practice advantage
-image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Walrus_hunting.jpg"
+image: https://upload.wikimedia.org/wikipedia/commons/5/59/Walrus_hunting.jpg
 published: true
-title: The Shit Knife
----
+title: "The Shit Knife"
 
+---
 
 This story comes from a wonderful talk from [Wade Davis](http://www.daviswade.com) that formed the second half of this podcast from [Big Ideas](http://www.abc.net.au/radionational/programs/bigideas/when-factories-close_-ancient-wisdom/6810052). The ideas presented as ancient wisdom confirm a lot of my beliefs about the nature of culture but one part of the lecture really stood out to me – the "shit knife". 
 

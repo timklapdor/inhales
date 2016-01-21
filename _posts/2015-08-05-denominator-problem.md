@@ -7,6 +7,7 @@ categories:
 tags: "time,content,advertising,attention,denominator"
 image: "/assets/article_images/clock-tower.jpg"
 published: true
+
 ---
 
 
