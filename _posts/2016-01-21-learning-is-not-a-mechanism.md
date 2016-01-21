@@ -6,7 +6,7 @@ categories: presentation
 tags: students, agency, assessment, mechanism
 image: /assets/article_images/voice-data.jpg
 published: true
-title: Learning is Not a Mechanism: Assessment, Student Agency, and Digital Spaces
+title: "Learning is Not a Mechanism: Assessment, Student Agency, and Digital Spaces"
 
 ---
 

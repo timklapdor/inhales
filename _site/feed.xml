@@ -6,9 +6,50 @@
 </description>
     <link>http://inhal.es/</link>
     <atom:link href="http://inhal.es/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 15 Jan 2016 22:39:09 +1100</pubDate>
-    <lastBuildDate>Fri, 15 Jan 2016 22:39:09 +1100</lastBuildDate>
+    <pubDate>Thu, 21 Jan 2016 15:35:26 +1100</pubDate>
+    <lastBuildDate>Thu, 21 Jan 2016 15:35:26 +1100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Learning is Not a Mechanism: Assessment, Student Agency, and Digital Spaces</title>
+        <description>&lt;p&gt;If you&amp;#39;re interested in Digital Pedagogy and the discussion around it you need not look further than the work of Jessie Stommel. He&amp;#39;s perhaps my favourite writer and provocateur on the subject. Always clear concise and thought provoking Jesse has an amazing way of bringing together the practices of teaching, the systems of education and the ways we merge these with technology and learning. &lt;/p&gt;
+
+&lt;p&gt;This slidedeck seems to be more of a visually supported essay (one who&amp;#39;s format I&amp;#39;m going to take note of) and delves into the word of Assessment. Assessment is very much at the heart of todays education system whether we like it or not and it impacts K-12 all the way through to Higher Ed. The system we&amp;#39;ve created to &amp;quot;measure learning&amp;quot; (because I am sceptical that it actually does this) is predicated on placing a numerical value on learning - an abstraction of a proxy of a complex, multi-temporal, biological function. I find it incredible that we seek to simplify this function rather than embrace it&amp;#39;s beauty and complexity. &lt;/p&gt;
+
+&lt;p&gt;Jesse&amp;#39;s article is incredibly insightful:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We’ve built an impenetrable phalanx of clarity, certainty, and defensibility. There is no space for student agency in a system of incessant grading, ranking, and scoring. The grade takes the complexity of human interaction within a learning environment and makes it machine-readable: [A/A-] [A-/B+] [F+] [97%] [59%] [18/20] [10/20]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While I&amp;#39;m not opposed to a grading system - in the sense of a standardised system that facilitates transactions and transparency - what we have now is very much a bastardised version of that. Where the aim of learning is the grade, rather than it acting as a compass. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Can we work to design a new approach to assessment within digital systems that focuses on formative rather than summative assessment, intrinsic rather than extrinsic motivation, relationships rather than ranking, emergence rather than predetermined outcomes?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jesse goes on to argue the case for greater student agency, for students to be part of the actual process of &amp;quot;learning&amp;quot; rather than the recipients of &amp;quot;it&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://www.slideshare.net/jessestommel/learning-is-not-a-mechanism-assessment-student-agency-and-digital-spaces&quot;&gt;Learning is Not a Mechanism: Assessment, Student Agency, and Digital Spaces&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/tbeS&quot;&gt;Voice and Data&lt;/a&gt; by Chris Campbell shared BY-NC&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jan 2016 15:10:00 +1100</pubDate>
+        <link>http://inhal.es/presentation/2016/01/21/learning-is-not-a-mechanism.html</link>
+        <guid isPermaLink="true">http://inhal.es/presentation/2016/01/21/learning-is-not-a-mechanism.html</guid>
+        
+        <category>students,</category>
+        
+        <category>agency,</category>
+        
+        <category>assessment,</category>
+        
+        <category>mechanism</category>
+        
+        
+        <category>presentation</category>
+        
+      </item>
     
       <item>
         <title>We’re all data now</title>
@@ -360,45 +401,6 @@
         <guid isPermaLink="true">http://inhal.es/post/2015/08/05/denominator-problem.html</guid>
         
         <category>time,content,advertising,attention,denominator</category>
-        
-        
-        <category>post</category>
-        
-      </item>
-    
-      <item>
-        <title>Blackboard’s Complexity Problems</title>
-        <description>&lt;p&gt;Interesting take on the latest news from Blackboard. The comments perhaps are the best bit of the article - and where the most cogent points are made. &lt;/p&gt;
-
-&lt;p&gt;This is a pretty telling point  that resonates with my experience with most large scale technology projects:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Blackboard has chosen its strategy with Ultra. But by putting it off for so long there is now a lot of major work to be done instead of a steady stream of less risky changes/improvements. &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Rather than ongoing and iterative updates, improvements and pruning you end up with something colossal that takes a massive amount of effort to change. Despite the rise of agile in development circles, it&amp;#39;s yet to make its way into the &amp;quot;Business As Usual&amp;quot; teams. And management? Fuhgeddaboudit.&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;http://edutechnica.com/2015/08/01/blackboards-complexity-problems/&quot;&gt;Blackboard’s Complexity Problems&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;http://flickr.com/photos/69125796@N00/7420991330&quot;&gt;Teaching Chemistry&lt;/a&gt; by starmanseries shared under a Creative Commons (BY) license&lt;/p&gt;
-</description>
-        <pubDate>Tue, 04 Aug 2015 14:24:00 +1000</pubDate>
-        <link>http://inhal.es/post/2015/08/04/bbs-complexity-problem.html</link>
-        <guid isPermaLink="true">http://inhal.es/post/2015/08/04/bbs-complexity-problem.html</guid>
-        
-        <category>Blackboard</category>
-        
-        <category>LMS</category>
-        
-        <category>complexity</category>
-        
-        <category>versions</category>
-        
-        <category>updates</category>
-        
-        <category>iteration</category>
-        
-        <category>incremental</category>
         
         
         <category>post</category>
