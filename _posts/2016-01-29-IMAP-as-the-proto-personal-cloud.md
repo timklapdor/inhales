@@ -31,4 +31,4 @@ I think the greatest innovations in the next 5 years are not going to be in plat
 
 Source: [IMAP as the Proto Personal Cloud](http://www.windley.com/archives/2013/04/imap_as_the_proto_personal_cloud.shtml)
  
-Image: [Clouds](https://flic.kr/p/Ay3nhr) by Tim Klapdor CC-BY-NC
+Image: [Clouds](https://flic.kr/p/e6sbn4) by Tim Klapdor CC-BY-NC
