@@ -6,7 +6,7 @@ categories: post
 tags: "Domain of Ones Own" student agency
 image: /assets/article_images/domain.jpg
 published: true
-title: "Do I Own My Domain If You Grade It?"
+title: Do I Own My Domain If You Grade It?
 
 ---
 
