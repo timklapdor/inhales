@@ -6,9 +6,198 @@
 </description>
     <link>http://inhal.es/</link>
     <atom:link href="http://inhal.es/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 21 Jan 2016 16:10:37 +1100</pubDate>
-    <lastBuildDate>Thu, 21 Jan 2016 16:10:37 +1100</lastBuildDate>
+    <pubDate>Tue, 26 Apr 2016 22:46:36 +1000</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2016 22:46:36 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Do I Own My Domain If You Grade It?</title>
+        <description>&lt;p&gt;This post from Andrew Rikard, a student from Davidson College is one the most insightful that I&amp;#39;ve read in some time. I had the pleasure of meeting Andrew on a recent trip and am a huge fan of his advocacy of the student voice. &lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m a huge fan of the Domain of One&amp;#39;s Own project - something I think all universities can benefit from - but it&amp;#39;s interesting how little is heard from students directly on the topic. In this post Andrew calls into question, not the motive but the benefit that can be gained by working in this space without changes to curriculum and the ways we measure and reward &amp;quot;learning&amp;quot; in higher ed. &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;I agree that owning data has the potential to give students agency and control. But it is not a guarantee.&lt;/p&gt;
+
+&lt;p&gt;I want to shift the emphasis from data possession to knowledge production. Gaining ownership over the data is vital—but until students see this domain as a space that rewards rigor and experimentation, it will not promote student agency. Traditional assignments don’t necessarily empower students when they have to post them in a public space.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While concepts like Students as Producers are vital in changing the idea of assessment, it&amp;#39;s important that what is produced and created is meaningful. &lt;/p&gt;
+
+&lt;p&gt;Another interesting question is whether assignments - and hence things like ePortfolios - actually represent a student, their identity and passions? Does putting these assignments in public and attaching value to them in this way actually counteract agency?&lt;/p&gt;
+
+&lt;p&gt;Andrew wraps up this post highlighting what Domain of Ones Own really represents:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The domains project isn’t revolutionary to the traditional classroom, but it is revolutionary to a classroom reimagined around public scholarship, student agency and experimentation. It makes sense when students find ownership in what they choose to create, how they put it online, and how it engages a broader audience. The question bigger than data ownership is how to make ownership over ideas happen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.edsurge.com/news/2015-08-10-do-i-own-my-domain-if-you-grade-it&quot;&gt;Do I Own My Domain If You Grade It?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/nYDz37&quot;&gt;construction-clouds-reflecting-on-glass-and-windows&lt;/a&gt; by ahlea CC0&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Apr 2016 06:40:00 +1000</pubDate>
+        <link>http://inhal.es/post/2016/04/27/Do-I-Own-My-Domain.html</link>
+        <guid isPermaLink="true">http://inhal.es/post/2016/04/27/Do-I-Own-My-Domain.html</guid>
+        
+        <category>Domain of Ones Own</category>
+        
+        <category>student agency</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>IMAP as the Proto Personal Cloud</title>
+        <description>&lt;p&gt;This older post got a retweet from &lt;a href=&quot;http://www.windley.com/&quot;&gt;Phil Windley&lt;/a&gt; today and it reminded me of how awesome the web is, and how f*cking smart many of the people who work on it are. I&amp;#39;ve been reading through most of Phil&amp;#39;s recent posts and know of the work he&amp;#39;s pursing at BYU. I&amp;#39;m quite jealous to be honest but so happy that he&amp;#39;s sharing their work, and maybe more importantly, the thinking behind it. &lt;/p&gt;
+
+&lt;p&gt;This post discusses the underlying protocols that power one of the most widely used online technologies - email. IMAP and SMTP have not only made email possible but done so in a way that has made it possible for an ecosystem of applications to be created which has spurned new features and innovation that have resulted in email becoming the backbone for many organisations to actually function. But rather than do this by becoming a monopoloy and decimating the competition they were simply open Protocols. I think we&amp;#39;ve forgotten about protocols in tech. The focus seems to be on applications - applications that depend on open protocols to function, but which operate as their own islands. Email was not this at all, as Phil puts it so well&amp;quot;&amp;quot;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;email was designed with the architecture of the Internet in mind. Email is &lt;em&gt;decentralized&lt;/em&gt; and &lt;em&gt;protocol-mediated&lt;/em&gt;. Email is &lt;em&gt;open&lt;/em&gt; —not necessarily open-source but open in that anyone can build clients and servers that speak IMAP and SMTP. As a result, &lt;strong&gt;email maximizes freedom and control for the user and minimizes the chance of disruption&lt;/strong&gt;. The features and benefits that email provides are exactly the same as those we want for personal clouds. Designed right, any application built on a personal cloud would provide similar functionality.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;#39;ve bolded that line in particular because I share that vision for the personal cloud - or &lt;a href=&quot;https://timklapdor.wordpress.com/2015/06/16/make-your-own-slogan-myos/&quot;&gt;MYOS&lt;/a&gt; as I&amp;#39;ve come to call it. &lt;/p&gt;
+
+&lt;p&gt;So perhaps what MYOS should be is not a technology stack - but a set of protocols. Perhaps the real innovation is in developing the protocols. &lt;/p&gt;
+
+&lt;p&gt;I also love his critique of Web 2.0 - and interestingly uses the phrase that kicked off my work on the topic last year - &lt;a href=&quot;https://timklapdor.wordpress.com/2015/08/13/you-are-not-in-control/&quot;&gt;You Are Not in Control&lt;/a&gt;: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Web 2.0 has given us a model that is exactly the opposite of email. The model encourages user data to be stored in separate silos. You cannot easily migrate from one service provider to another. And when a service provider goes away, you are abandoned and marooned. You are &lt;em&gt;not in control&lt;/em&gt;. Of course, it doesn&amp;#39;t help that this is all in the service provider&amp;#39;s best interest. They make money from the fact that the predominant model for building online applications leaves their users powerless.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I&amp;#39;m starting to think that we went down the rabbit hole with Web 2.0 and are only now coming back into the light. Web 2.0 addressed something the Web hadn&amp;#39;t really tackled - the User Experience. It simplified getting online, creating, authoring and sharing and it&amp;#39;s been incredibly successful in that mission. But it sacrificed (almost literally on the altar) the distributed nature of the web to achieve it. What seems to be emerging now though is a desire to reclaim that aspect of the web. To reinvigorate the underlying network and explore the  protocols and conventions required to imagine the web we want. &lt;/p&gt;
+
+&lt;p&gt;I think the greatest innovations in the next 5 years are not going to be in platforms or applications but in protocols and conventions. The web has worked becasue it can oscilate between the Wild West and Cooperative. It needs to get together again, just as it did in the web standards movement, to start thinking about the foundations were building. &lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://www.windley.com/archives/2013/04/imap_as_the_proto_personal_cloud.shtml&quot;&gt;IMAP as the Proto Personal Cloud&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/e6sbn4&quot;&gt;Clouds&lt;/a&gt; by Tim Klapdor CC-BY-NC&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Jan 2016 18:05:00 +1100</pubDate>
+        <link>http://inhal.es/post/2016/01/31/IMAP-as-the-proto-personal-cloud.html</link>
+        <guid isPermaLink="true">http://inhal.es/post/2016/01/31/IMAP-as-the-proto-personal-cloud.html</guid>
+        
+        <category>IMAP</category>
+        
+        <category>personal</category>
+        
+        <category>MYOS</category>
+        
+        <category>email</category>
+        
+        <category>protocol</category>
+        
+        <category>web</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Tacit Knowledge Acquisition and Dissemination in Distance Learning</title>
+        <description>&lt;p&gt;I wouldn&amp;#39;t normally link to one of Downes&amp;#39; posts - seems weird to comment on commentary - but I really like that he pulled together another reference and this phrase sparked something: &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Or maybe - as I think - all knowledge is tacit knowledge. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;#39;s a throw away line and something that you can read more in the rest of Stephen&amp;#39;s work but it&amp;#39;s quite an interesting concept. It&amp;#39;s one I&amp;#39;ve been toying around with - especially as a backlash against the idea that knowledge can be divorced from people. That by collecting snippets of people&amp;#39;s knowledge as bits of text and articles and then placing it into a database you&amp;#39;ve somehow capture that knowledge rather than just captured abstracted information. And that once you&amp;#39;ve accumulated enough information you&amp;#39;ve somehow got knowledge at your fingertips rather than it becoming something that has become so abstracted it has to be sorted, sifted and instead practice operates more like raw data. &lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s something I tried to capture in this diagram:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/knowledge-information-data.jpg&quot; alt=&quot;Knowledge/Information/Data Cycle&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s why simply having a library or access to a library or even working in a library doesn&amp;#39;t make you smarter. &lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://www.downes.ca/post/64825&quot;&gt;Tacit Knowledge Acquisition and Dissemination in Distance Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/Ay3nhr&quot;&gt;Knowledge Is Golden&lt;/a&gt; by Alan Grinberg CC-BY-ND&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jan 2016 14:40:00 +1100</pubDate>
+        <link>http://inhal.es/post/2016/01/25/tacit-knowledge-acquisition.html</link>
+        <guid isPermaLink="true">http://inhal.es/post/2016/01/25/tacit-knowledge-acquisition.html</guid>
+        
+        <category>tacit</category>
+        
+        <category>knowledge</category>
+        
+        <category>learning</category>
+        
+        <category>distance</category>
+        
+        
+        <category>post</category>
+        
+      </item>
+    
+      <item>
+        <title>Hacking the City</title>
+        <description>&lt;p&gt;This article discuss the work of Marcus Westbury and his attempt to revitalise the dying heart of the city of Newcastle, Australia. Westbury&amp;#39;s &lt;a href=&quot;http://renewnewcastle.org/&quot;&gt;Renew Newcastle&lt;/a&gt; project saw the run down central part of the city get a breath of air and come spluturing back to life. Having been to Newcastle during the down time I can attest to the The Walking Dead-esque nature of that part of town. But by using some fairly unconventional methods - such as utilising vacant spaces rent free - the town has come roaring back to life. This is an interesting tale of a post-industrial steel city bought to it knees as the mills closed. It&amp;#39;s also one of hope and the power of local action and utilising the global power of the web. Much of Westbury&amp;#39;s success has been because of the export of products enabled by the web. In this way new money is injected into the local community rather than borrowing it from somewhere else. This new money is the most crucial element and why many similar projects fail when they simply invest money and don&amp;#39;t generate anything new. &lt;/p&gt;
+
+&lt;p&gt;Given my desire to work on local Civitas during 2016 this post has given me some really good ideas and inspired me to think that change is possible - especially if you focus on creating the infrastructure for the community to create the change themselves. &lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://newrepublic.com/article/124470/hacking-city&quot;&gt;Hacking the City&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/e6s7Rx&quot;&gt;New York by Las Vegas&lt;/a&gt; by Tim Klapdor CC-BY-NC&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jan 2016 14:15:00 +1100</pubDate>
+        <link>http://inhal.es/article/2016/01/25/hacking-the-city.html</link>
+        <guid isPermaLink="true">http://inhal.es/article/2016/01/25/hacking-the-city.html</guid>
+        
+        <category>city</category>
+        
+        <category>hack</category>
+        
+        <category>newcastle</category>
+        
+        <category>free</category>
+        
+        
+        <category>article</category>
+        
+      </item>
+    
+      <item>
+        <title>There’s a blockchain for that!</title>
+        <description>&lt;p&gt;An interesting read on what might be possible with the blockchain. There&amp;#39;s some interesting ideas in here - and a few that I tought were left unexplored. In particular the idea of a blockchain based identity management system - a decentralised passport for your online identity (I made a comment on the post if you want to join in). The kind of thing that Mozilla&amp;#39;s Persona never became. &lt;/p&gt;
+
+&lt;p&gt;The area of potential for big change via the blockchain is in the financial sector. The article notes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A blockchain-powered economy is most likely to take root far away from the U.S., many observers believe — either in the developing world, where there’s less of a reliable financial system in place, or in places where property rules and contract law have shaky foundations (think Russia or China). Wherever it starts to take off, it will face the twin hurdles of complexity overload and government pushback.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Given the uptake of mobile transactions in Africa I&amp;#39;d say that this is perhaps a more likely location. Companies like &lt;a href=&quot;https://en.wikipedia.org/wiki/M-Pesa&quot;&gt;M-Pesa&lt;/a&gt; rapidly grew because they took advantage of the abundance of simple mobile phones, coverage and a banking system that didn&amp;#39;t service the public. At the same time the lack of trust in the financial systems in the West might make it a likely breeding ground for this kind of system to be taken up. If someone comes up with a more localised system - one that worked within a community for simple trade and bypassed the cut that &amp;quot;middleman&amp;quot; models of Mastercard and Visa take you might be onto a winner. &lt;/p&gt;
+
+&lt;p&gt;But perhaps it&amp;#39;s Maciej Ceglowski&amp;#39;s thoughts that are the most interesting... &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“There is a tendency in computer-land to seek technical solutions to political problems,” Ceglowski says. “In my opinion, the focus on the blockchain (and related ideas) falls into that misguided category. The idea that we should look to algorithms and technology to reclaim our freedoms is fundamentally undemocratic. It presupposes a technical elite who would ‘fix the Internet’ for everyone else. While I can see how this appeals to romantic ideas of hacking the system, I see it as a dangerous trend at worst, and a distraction at best.&lt;/p&gt;
+
+&lt;p&gt;“We are terrible at predicting the social outcomes of technological innovation. There’s no reason Bitcoin-like distributed systems would be immune from that rule. I say let’s wise up and actually fight this battle on the level where it belongs.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My feelings: I think Maciej is right - technology itself won&amp;#39;t fix anything &lt;strong&gt;on it&amp;#39;s own&lt;/strong&gt;. But technology can be a player, an enabler, an infrastructure on which to build change. Building technology that doesn&amp;#39;t rely on centralised control enables very different systems and applications to emerge. Decentralised systems undermine centralised control and erode their power structures. It&amp;#39;s the beginning of something bigger.  &lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67#.ce49wbabr&quot;&gt;There’s a blockchain for that!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;http://www.blockchaintechnologies.com/blockchain-definition&quot;&gt;Blockchain Consensus&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Jan 2016 23:35:00 +1100</pubDate>
+        <link>http://inhal.es/article/2016/01/21/theres-a-blockchain-for-that.html</link>
+        <guid isPermaLink="true">http://inhal.es/article/2016/01/21/theres-a-blockchain-for-that.html</guid>
+        
+        <category>blockchain</category>
+        
+        
+        <category>article</category>
+        
+      </item>
     
       <item>
         <title>Yoda Is Dead but Star Wars’ Dubious Lessons Live On</title>
@@ -216,190 +405,6 @@
         
         
         <category>article</category>
-        
-      </item>
-    
-      <item>
-        <title>The Shit Knife</title>
-        <description>&lt;p&gt;This story comes from a wonderful talk from &lt;a href=&quot;http://www.daviswade.com&quot;&gt;Wade Davis&lt;/a&gt; that formed the second half of this podcast from &lt;a href=&quot;http://www.abc.net.au/radionational/programs/bigideas/when-factories-close_-ancient-wisdom/6810052&quot;&gt;Big Ideas&lt;/a&gt;. The ideas presented as ancient wisdom confirm a lot of my beliefs about the nature of culture but one part of the lecture really stood out to me – the &amp;quot;shit knife&amp;quot;. &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The Inuit didn’t fear the cold; they took advantage of it. During the 1950s the Canadian government forced the Inuit into settlements. A family from Arctic Bay told me this fantastic story of their grandfather who refused to go. The family, fearful for his life, took away all of his tools and all of his implements, thinking that would force him into the settlement. But instead, he just slipped out of an igloo on a cold Arctic night, pulled down his caribou and sealskin trousers, and defecated into his hand. As the feces began to freeze, he shaped it into the form of an implement. And when the blade started to take shape, he put a spray of saliva along the leading edge to sharpen it. That’s when what they call the “shit knife” took form. He used it to butcher a dog. Skinned the dog with it. Improvised a sled with the dog’s rib cage, and then, using the skin, he harnessed up an adjacent living dog. He put the shit knife in his belt and disappeared into the night.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The &amp;quot;Shit Knife&amp;quot; is such a wonderful metaphor &lt;/p&gt;
-
-&lt;p&gt;Here&amp;#39;s a video of that story (you can also watch the rest of the lecture if audio doesn&amp;#39;t do it for you). &lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XuJsbjKKh3E?t=36m04s&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Walrus_hunting.jpg#/media/File:Walrus_hunting.jpg&quot;&gt;Walrus Hunting&lt;/a&gt; CC0 (public domain)  &lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Nov 2015 11:07:00 +1100</pubDate>
-        <link>http://inhal.es/podcast/2015/11/17/the-shit-knife.html</link>
-        <guid isPermaLink="true">http://inhal.es/podcast/2015/11/17/the-shit-knife.html</guid>
-        
-        <category>indigenous</category>
-        
-        <category>stories</category>
-        
-        <category>ingenuity</category>
-        
-        <category>practice</category>
-        
-        <category>advantage</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Web Annotations with Doug Schepers</title>
-        <description>&lt;p&gt;After constant sync issues with Apple&amp;#39;s Podcast app I&amp;#39;ve jumped over to Marco Arments Overcast. It provides a nice alternative to iTunes for browsing and finding new podcasts and it&amp;#39;s how I found &lt;a href=&quot;http://thewebahead.net/&quot;&gt;The Web Ahead&lt;/a&gt;. I browsed the whole listing and cherry picked quite a few older episodes that struck my fancy. &lt;/p&gt;
-
-&lt;p&gt;Episode 60: Web Annotations with Doug Schepers is a fantastic listen. Doug speaks with such passion about web annotations and highlights how it is the missing link in the webs current architecture. Commenting could be replaced by a specific annotation service. And it&amp;#39;s this service structure that makes the topic interesting - particularly when thought of through a distributed and federated framework. &lt;/p&gt;
-
-&lt;p&gt;What if you were empowered to comment, highlight, note, link to, compare and discuss on any site via your own infrastructure, your own service. That instead of feeding your comments into someone else&amp;#39;s system (and their business model) that you were able to share and syndicate that information. &lt;/p&gt;
-
-&lt;p&gt;Not only is it the actual annotations that are interesting, but the threads possible to create through the web. Linking sites, pages, sections and quotes from across the web. &lt;/p&gt;
-
-&lt;p&gt;This all fits my &lt;a href=&quot;https://timklapdor.wordpress.com/2015/07/28/the-quiet-page-linking-the-web/&quot;&gt;layered page metaphor&lt;/a&gt; and making this a web standard would allow this to not only possible, but ubiquitous. &lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;https://overcast.fm/+I_4LuVpI&quot;&gt;Web Annotations with Doug Schepers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/7Pm7to&quot;&gt;Anotations Finnegans Wake&lt;/a&gt;by Karl Steel&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Aug 2015 22:00:00 +1000</pubDate>
-        <link>http://inhal.es/podcast/2015/08/22/Web-Annotations-with-Doug-Schepers.html</link>
-        <guid isPermaLink="true">http://inhal.es/podcast/2015/08/22/Web-Annotations-with-Doug-Schepers.html</guid>
-        
-        <category>annotation</category>
-        
-        <category>highlighting</category>
-        
-        <category>commenting</category>
-        
-        <category>transclusion</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>Egyptian Lingerie and the Robot Future</title>
-        <description>&lt;p&gt;This is what scares me about all the predictions of AI, Automation and post-labour:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Panic over automation misses the real problem — that workers themselves are treated like machines.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Peter Frase articulates something more incidious than losing jobs:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;What I fear most is not that all of our labor will be replaced with machines. Rather, like Yglesias, I worry that it won’t be — but for a slightly different reason. Again, bosses prefer workers to machines when they are cheaper and easier to control. Hence the truly dystopian prospect is that the worker herself is treated as if she were a machine, rather than being replaced by one.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is the future that frightens me. Not the rise of the machines, but the supplication of the people. &lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;https://www.jacobinmag.com/2015/08/new-yorker-lingerie-automation-frase/&quot;&gt;Egyptian Lingerie and the Robot Future&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/5rkS6R&quot;&gt;Robots (10)&lt;/a&gt; by Andreas. CC BY-NC-ND 2.0&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Aug 2015 12:10:00 +1000</pubDate>
-        <link>http://inhal.es/article/2015/08/09/robot-future.html</link>
-        <guid isPermaLink="true">http://inhal.es/article/2015/08/09/robot-future.html</guid>
-        
-        <category>labour</category>
-        
-        <category>robots</category>
-        
-        <category>labor</category>
-        
-        <category>automation</category>
-        
-        
-        <category>article</category>
-        
-      </item>
-    
-      <item>
-        <title>The Healing Brain</title>
-        <description>&lt;p&gt;An extremely interesting and thought provoking interview with Norman Doidge, author of &lt;em&gt;The Brain&amp;#39;s Way Of Healing&lt;/em&gt; and &lt;em&gt;The Brain That Changes Itself&lt;/em&gt;. The concept of neural plasticity is changes the way we need to conceptualise not just the brain, but biology as a whole. Its the first real demonstration that I&amp;#39;ve seen where complex systems are actually integrated.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;d recommend this podcast (and by proxy the book) to anyone interested or connected to anyone dealing with neuralogical issues - strokes through to autism. It provides a reasoned argument for rethinking the way we tread these conditions. &lt;/p&gt;
-
-&lt;p&gt;What I got out of this talk was two important concepts:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;That the secret to the brain is understanding that it is an energy system. That it responds, controls, manipulates and translates energy in order for us to function. &lt;/li&gt;
-&lt;li&gt;The concept of a &amp;quot;&lt;a href=&quot;https://en.wikipedia.org/wiki/Transducer&quot;&gt;transducer&lt;/a&gt;&amp;quot; - a device that converts one form of energy to another form of energy. &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The transducer concept is particularly important in many of the treatments that Doidge describes. By delivery energy in one from - visual, auditory, sensory - it can be converted into other energy forms. These can then &amp;quot;treat&amp;quot; the various conditions of the brain. &lt;/p&gt;
-
-&lt;p&gt;As an introduction this is a great listen - Doidge is engaging and enthusiastic and capable of weaving a great narrative. For me it&amp;#39;s also kick started some thinking around energy and this concept of the transducer, a totally new term to me, but one that I can relate a lot of things too. &lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;http://www.abc.net.au/radionational/programs/bigideas/the-healing-brain/6643520&quot;&gt;The Healing Brain&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/4wdEnR&quot;&gt;Ask the Brain&lt;/a&gt; by Thomas Hawk. CC-BY-NC&lt;/p&gt;
-</description>
-        <pubDate>Sat, 08 Aug 2015 11:15:00 +1000</pubDate>
-        <link>http://inhal.es/podcast/2015/08/08/the-healing-brain.html</link>
-        <guid isPermaLink="true">http://inhal.es/podcast/2015/08/08/the-healing-brain.html</guid>
-        
-        <category>brain</category>
-        
-        <category>plasticity</category>
-        
-        <category>transducer</category>
-        
-        <category>healing</category>
-        
-        <category>energy</category>
-        
-        <category>power</category>
-        
-        
-        <category>podcast</category>
-        
-      </item>
-    
-      <item>
-        <title>How I Gave Up Alternating Current</title>
-        <description>&lt;p&gt;I picked this post up from &lt;a href=&quot;http://daringfireball.net/&quot;&gt;Daring Fireball&lt;/a&gt; and have to say that I feel the same as John Gruber - I can’t tell whether this is parody or not. &lt;/p&gt;
-
-&lt;p&gt;I read this as I am actually interesting in the concept of ditching Alternating for Direct Current. A return to localised power production via solar and wind would make sense for the more efficient DC standard and reduce the astounding amount of power wasted in transimission and conversion from AC. &lt;/p&gt;
-
-&lt;p&gt;So that bit was interesting. The rest is an insight into a very alternate (maybe alien) lifestyle. Some of it makes sense, but often choices seem to contradict each other and the logic seems convoluted. &lt;/p&gt;
-
-&lt;p&gt;Interesting adn intriguing. &lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;P.S. - the author of the post was the inventor of the food replacement - Soylent.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;http://robrhinehart.com/?p=1331&quot;&gt;How I Gave Up Alternating Current&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/nrYkLp&quot;&gt;Soylent Green&lt;/a&gt; by Bill Lile&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Aug 2015 22:08:00 +1000</pubDate>
-        <link>http://inhal.es/post/2015/08/05/gave-up-alternating-current.html</link>
-        <guid isPermaLink="true">http://inhal.es/post/2015/08/05/gave-up-alternating-current.html</guid>
-        
-        <category>DC</category>
-        
-        <category>AC</category>
-        
-        <category>alternate</category>
-        
-        <category>lifestyle</category>
-        
-        <category>soylent</category>
-        
-        <category>power</category>
-        
-        
-        <category>post</category>
         
       </item>
     
