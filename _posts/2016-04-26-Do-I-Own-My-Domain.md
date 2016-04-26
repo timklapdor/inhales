@@ -1,9 +1,9 @@
 ---
 
 layout: post
-date: 2016-04-26 20:40
+date: 2016-04-26 20:40:00
 categories: post
-tags: Domain of Ones Own, student agency
+tags: [Domain of Ones Own, student agency]
 image: /assets/article_images/domain.jpg
 published: true
 title: "Do I Own My Domain If You Grade It?"
