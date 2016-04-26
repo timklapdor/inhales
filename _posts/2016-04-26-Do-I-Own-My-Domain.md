@@ -1,12 +1,11 @@
 ---
 
 layout: post
+title: "Do I Own My Domain If You Grade It?"
 date: 2016-04-26 22:30	
 categories: post
-tags: "Domain of Ones Own" student agency
+tags: [Domain of Ones Own, student agency]
 image: /assets/article_images/domain.jpg
-published: true
-title: Do I Own My Domain If You Grade It?
 
 ---
 
