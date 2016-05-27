@@ -6,30 +6,32 @@
 </description>
     <link>http://inhal.es/</link>
     <atom:link href="http://inhal.es/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 26 Apr 2016 22:46:36 +1000</pubDate>
-    <lastBuildDate>Tue, 26 Apr 2016 22:46:36 +1000</lastBuildDate>
+    <pubDate>Mon, 02 May 2016 11:56:28 +1000</pubDate>
+    <lastBuildDate>Mon, 02 May 2016 11:56:28 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Do I Own My Domain If You Grade It?</title>
-        <description>&lt;p&gt;This post from Andrew Rikard, a student from Davidson College is one the most insightful that I&amp;#39;ve read in some time. I had the pleasure of meeting Andrew on a recent trip and am a huge fan of his advocacy of the student voice. &lt;/p&gt;
+        <description>&lt;p&gt;This post from Andrew Rikard, a student from Davidson College is one the most insightful that I’ve read in some time. I had the pleasure of meeting Andrew on a recent trip and am a huge fan of his advocacy of the student voice.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#39;m a huge fan of the Domain of One&amp;#39;s Own project - something I think all universities can benefit from - but it&amp;#39;s interesting how little is heard from students directly on the topic. In this post Andrew calls into question, not the motive but the benefit that can be gained by working in this space without changes to curriculum and the ways we measure and reward &amp;quot;learning&amp;quot; in higher ed. &lt;/p&gt;
+&lt;p&gt;I’m a huge fan of the Domain of One’s Own project - something I think all universities can benefit from - but it’s interesting how little is heard from students directly on the topic. In this post Andrew calls into question, not the motive but the benefit that can be gained by working in this space without changes to curriculum and the ways we measure and reward “learning” in higher ed.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;I agree that owning data has the potential to give students agency and control. But it is not a guarantee.&lt;/p&gt;
-
-&lt;p&gt;I want to shift the emphasis from data possession to knowledge production. Gaining ownership over the data is vital—but until students see this domain as a space that rewards rigor and experimentation, it will not promote student agency. Traditional assignments don’t necessarily empower students when they have to post them in a public space.&lt;/p&gt;
+  &lt;p&gt;I agree that owning data has the potential to give students agency and control. But it is not a guarantee.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;While concepts like Students as Producers are vital in changing the idea of assessment, it&amp;#39;s important that what is produced and created is meaningful. &lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;I want to shift the emphasis from data possession to knowledge production. Gaining ownership over the data is vital—but until students see this domain as a space that rewards rigor and experimentation, it will not promote student agency. Traditional assignments don’t necessarily empower students when they have to post them in a public space.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While concepts like Students as Producers are vital in changing the idea of assessment, it’s important that what is produced and created is meaningful.&lt;/p&gt;
 
 &lt;p&gt;Another interesting question is whether assignments - and hence things like ePortfolios - actually represent a student, their identity and passions? Does putting these assignments in public and attaching value to them in this way actually counteract agency?&lt;/p&gt;
 
 &lt;p&gt;Andrew wraps up this post highlighting what Domain of Ones Own really represents:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;The domains project isn’t revolutionary to the traditional classroom, but it is revolutionary to a classroom reimagined around public scholarship, student agency and experimentation. It makes sense when students find ownership in what they choose to create, how they put it online, and how it engages a broader audience. The question bigger than data ownership is how to make ownership over ideas happen.&lt;/p&gt;
+  &lt;p&gt;The domains project isn’t revolutionary to the traditional classroom, but it is revolutionary to a classroom reimagined around public scholarship, student agency and experimentation. It makes sense when students find ownership in what they choose to create, how they put it online, and how it engages a broader audience. The question bigger than data ownership is how to make ownership over ideas happen.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;https://www.edsurge.com/news/2015-08-10-do-i-own-my-domain-if-you-grade-it&quot;&gt;Do I Own My Domain If You Grade It?&lt;/a&gt;&lt;/p&gt;
@@ -51,27 +53,27 @@
     
       <item>
         <title>IMAP as the Proto Personal Cloud</title>
-        <description>&lt;p&gt;This older post got a retweet from &lt;a href=&quot;http://www.windley.com/&quot;&gt;Phil Windley&lt;/a&gt; today and it reminded me of how awesome the web is, and how f*cking smart many of the people who work on it are. I&amp;#39;ve been reading through most of Phil&amp;#39;s recent posts and know of the work he&amp;#39;s pursing at BYU. I&amp;#39;m quite jealous to be honest but so happy that he&amp;#39;s sharing their work, and maybe more importantly, the thinking behind it. &lt;/p&gt;
+        <description>&lt;p&gt;This older post got a retweet from &lt;a href=&quot;http://www.windley.com/&quot;&gt;Phil Windley&lt;/a&gt; today and it reminded me of how awesome the web is, and how f*cking smart many of the people who work on it are. I’ve been reading through most of Phil’s recent posts and know of the work he’s pursing at BYU. I’m quite jealous to be honest but so happy that he’s sharing their work, and maybe more importantly, the thinking behind it.&lt;/p&gt;
 
-&lt;p&gt;This post discusses the underlying protocols that power one of the most widely used online technologies - email. IMAP and SMTP have not only made email possible but done so in a way that has made it possible for an ecosystem of applications to be created which has spurned new features and innovation that have resulted in email becoming the backbone for many organisations to actually function. But rather than do this by becoming a monopoloy and decimating the competition they were simply open Protocols. I think we&amp;#39;ve forgotten about protocols in tech. The focus seems to be on applications - applications that depend on open protocols to function, but which operate as their own islands. Email was not this at all, as Phil puts it so well&amp;quot;&amp;quot;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;email was designed with the architecture of the Internet in mind. Email is &lt;em&gt;decentralized&lt;/em&gt; and &lt;em&gt;protocol-mediated&lt;/em&gt;. Email is &lt;em&gt;open&lt;/em&gt; —not necessarily open-source but open in that anyone can build clients and servers that speak IMAP and SMTP. As a result, &lt;strong&gt;email maximizes freedom and control for the user and minimizes the chance of disruption&lt;/strong&gt;. The features and benefits that email provides are exactly the same as those we want for personal clouds. Designed right, any application built on a personal cloud would provide similar functionality.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I&amp;#39;ve bolded that line in particular because I share that vision for the personal cloud - or &lt;a href=&quot;https://timklapdor.wordpress.com/2015/06/16/make-your-own-slogan-myos/&quot;&gt;MYOS&lt;/a&gt; as I&amp;#39;ve come to call it. &lt;/p&gt;
-
-&lt;p&gt;So perhaps what MYOS should be is not a technology stack - but a set of protocols. Perhaps the real innovation is in developing the protocols. &lt;/p&gt;
-
-&lt;p&gt;I also love his critique of Web 2.0 - and interestingly uses the phrase that kicked off my work on the topic last year - &lt;a href=&quot;https://timklapdor.wordpress.com/2015/08/13/you-are-not-in-control/&quot;&gt;You Are Not in Control&lt;/a&gt;: &lt;/p&gt;
+&lt;p&gt;This post discusses the underlying protocols that power one of the most widely used online technologies - email. IMAP and SMTP have not only made email possible but done so in a way that has made it possible for an ecosystem of applications to be created which has spurned new features and innovation that have resulted in email becoming the backbone for many organisations to actually function. But rather than do this by becoming a monopoloy and decimating the competition they were simply open Protocols. I think we’ve forgotten about protocols in tech. The focus seems to be on applications - applications that depend on open protocols to function, but which operate as their own islands. Email was not this at all, as Phil puts it so well””&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Web 2.0 has given us a model that is exactly the opposite of email. The model encourages user data to be stored in separate silos. You cannot easily migrate from one service provider to another. And when a service provider goes away, you are abandoned and marooned. You are &lt;em&gt;not in control&lt;/em&gt;. Of course, it doesn&amp;#39;t help that this is all in the service provider&amp;#39;s best interest. They make money from the fact that the predominant model for building online applications leaves their users powerless.&lt;/p&gt;
+  &lt;p&gt;email was designed with the architecture of the Internet in mind. Email is &lt;em&gt;decentralized&lt;/em&gt; and &lt;em&gt;protocol-mediated&lt;/em&gt;. Email is &lt;em&gt;open&lt;/em&gt; —not necessarily open-source but open in that anyone can build clients and servers that speak IMAP and SMTP. As a result, &lt;strong&gt;email maximizes freedom and control for the user and minimizes the chance of disruption&lt;/strong&gt;. The features and benefits that email provides are exactly the same as those we want for personal clouds. Designed right, any application built on a personal cloud would provide similar functionality.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I&amp;#39;m starting to think that we went down the rabbit hole with Web 2.0 and are only now coming back into the light. Web 2.0 addressed something the Web hadn&amp;#39;t really tackled - the User Experience. It simplified getting online, creating, authoring and sharing and it&amp;#39;s been incredibly successful in that mission. But it sacrificed (almost literally on the altar) the distributed nature of the web to achieve it. What seems to be emerging now though is a desire to reclaim that aspect of the web. To reinvigorate the underlying network and explore the  protocols and conventions required to imagine the web we want. &lt;/p&gt;
+&lt;p&gt;I’ve bolded that line in particular because I share that vision for the personal cloud - or &lt;a href=&quot;https://timklapdor.wordpress.com/2015/06/16/make-your-own-slogan-myos/&quot;&gt;MYOS&lt;/a&gt; as I’ve come to call it.&lt;/p&gt;
 
-&lt;p&gt;I think the greatest innovations in the next 5 years are not going to be in platforms or applications but in protocols and conventions. The web has worked becasue it can oscilate between the Wild West and Cooperative. It needs to get together again, just as it did in the web standards movement, to start thinking about the foundations were building. &lt;/p&gt;
+&lt;p&gt;So perhaps what MYOS should be is not a technology stack - but a set of protocols. Perhaps the real innovation is in developing the protocols.&lt;/p&gt;
+
+&lt;p&gt;I also love his critique of Web 2.0 - and interestingly uses the phrase that kicked off my work on the topic last year - &lt;a href=&quot;https://timklapdor.wordpress.com/2015/08/13/you-are-not-in-control/&quot;&gt;You Are Not in Control&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Web 2.0 has given us a model that is exactly the opposite of email. The model encourages user data to be stored in separate silos. You cannot easily migrate from one service provider to another. And when a service provider goes away, you are abandoned and marooned. You are &lt;em&gt;not in control&lt;/em&gt;. Of course, it doesn’t help that this is all in the service provider’s best interest. They make money from the fact that the predominant model for building online applications leaves their users powerless.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m starting to think that we went down the rabbit hole with Web 2.0 and are only now coming back into the light. Web 2.0 addressed something the Web hadn’t really tackled - the User Experience. It simplified getting online, creating, authoring and sharing and it’s been incredibly successful in that mission. But it sacrificed (almost literally on the altar) the distributed nature of the web to achieve it. What seems to be emerging now though is a desire to reclaim that aspect of the web. To reinvigorate the underlying network and explore the  protocols and conventions required to imagine the web we want.&lt;/p&gt;
+
+&lt;p&gt;I think the greatest innovations in the next 5 years are not going to be in platforms or applications but in protocols and conventions. The web has worked becasue it can oscilate between the Wild West and Cooperative. It needs to get together again, just as it did in the web standards movement, to start thinking about the foundations were building.&lt;/p&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;http://www.windley.com/archives/2013/04/imap_as_the_proto_personal_cloud.shtml&quot;&gt;IMAP as the Proto Personal Cloud&lt;/a&gt;&lt;/p&gt;
 
@@ -100,19 +102,19 @@
     
       <item>
         <title>Tacit Knowledge Acquisition and Dissemination in Distance Learning</title>
-        <description>&lt;p&gt;I wouldn&amp;#39;t normally link to one of Downes&amp;#39; posts - seems weird to comment on commentary - but I really like that he pulled together another reference and this phrase sparked something: &lt;/p&gt;
+        <description>&lt;p&gt;I wouldn’t normally link to one of Downes’ posts - seems weird to comment on commentary - but I really like that he pulled together another reference and this phrase sparked something:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Or maybe - as I think - all knowledge is tacit knowledge. &lt;/p&gt;
+  &lt;p&gt;Or maybe - as I think - all knowledge is tacit knowledge.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It&amp;#39;s a throw away line and something that you can read more in the rest of Stephen&amp;#39;s work but it&amp;#39;s quite an interesting concept. It&amp;#39;s one I&amp;#39;ve been toying around with - especially as a backlash against the idea that knowledge can be divorced from people. That by collecting snippets of people&amp;#39;s knowledge as bits of text and articles and then placing it into a database you&amp;#39;ve somehow capture that knowledge rather than just captured abstracted information. And that once you&amp;#39;ve accumulated enough information you&amp;#39;ve somehow got knowledge at your fingertips rather than it becoming something that has become so abstracted it has to be sorted, sifted and instead practice operates more like raw data. &lt;/p&gt;
+&lt;p&gt;It’s a throw away line and something that you can read more in the rest of Stephen’s work but it’s quite an interesting concept. It’s one I’ve been toying around with - especially as a backlash against the idea that knowledge can be divorced from people. That by collecting snippets of people’s knowledge as bits of text and articles and then placing it into a database you’ve somehow capture that knowledge rather than just captured abstracted information. And that once you’ve accumulated enough information you’ve somehow got knowledge at your fingertips rather than it becoming something that has become so abstracted it has to be sorted, sifted and instead practice operates more like raw data.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s something I tried to capture in this diagram:&lt;/p&gt;
+&lt;p&gt;It’s something I tried to capture in this diagram:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/article_images/knowledge-information-data.jpg&quot; alt=&quot;Knowledge/Information/Data Cycle&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/knowledge-information-data.jpg&quot; alt=&quot;Knowledge/Information/Data Cycle&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s why simply having a library or access to a library or even working in a library doesn&amp;#39;t make you smarter. &lt;/p&gt;
+&lt;p&gt;It’s why simply having a library or access to a library or even working in a library doesn’t make you smarter.&lt;/p&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;http://www.downes.ca/post/64825&quot;&gt;Tacit Knowledge Acquisition and Dissemination in Distance Learning&lt;/a&gt;&lt;/p&gt;
 
@@ -137,9 +139,9 @@
     
       <item>
         <title>Hacking the City</title>
-        <description>&lt;p&gt;This article discuss the work of Marcus Westbury and his attempt to revitalise the dying heart of the city of Newcastle, Australia. Westbury&amp;#39;s &lt;a href=&quot;http://renewnewcastle.org/&quot;&gt;Renew Newcastle&lt;/a&gt; project saw the run down central part of the city get a breath of air and come spluturing back to life. Having been to Newcastle during the down time I can attest to the The Walking Dead-esque nature of that part of town. But by using some fairly unconventional methods - such as utilising vacant spaces rent free - the town has come roaring back to life. This is an interesting tale of a post-industrial steel city bought to it knees as the mills closed. It&amp;#39;s also one of hope and the power of local action and utilising the global power of the web. Much of Westbury&amp;#39;s success has been because of the export of products enabled by the web. In this way new money is injected into the local community rather than borrowing it from somewhere else. This new money is the most crucial element and why many similar projects fail when they simply invest money and don&amp;#39;t generate anything new. &lt;/p&gt;
+        <description>&lt;p&gt;This article discuss the work of Marcus Westbury and his attempt to revitalise the dying heart of the city of Newcastle, Australia. Westbury’s &lt;a href=&quot;http://renewnewcastle.org/&quot;&gt;Renew Newcastle&lt;/a&gt; project saw the run down central part of the city get a breath of air and come spluturing back to life. Having been to Newcastle during the down time I can attest to the The Walking Dead-esque nature of that part of town. But by using some fairly unconventional methods - such as utilising vacant spaces rent free - the town has come roaring back to life. This is an interesting tale of a post-industrial steel city bought to it knees as the mills closed. It’s also one of hope and the power of local action and utilising the global power of the web. Much of Westbury’s success has been because of the export of products enabled by the web. In this way new money is injected into the local community rather than borrowing it from somewhere else. This new money is the most crucial element and why many similar projects fail when they simply invest money and don’t generate anything new.&lt;/p&gt;
 
-&lt;p&gt;Given my desire to work on local Civitas during 2016 this post has given me some really good ideas and inspired me to think that change is possible - especially if you focus on creating the infrastructure for the community to create the change themselves. &lt;/p&gt;
+&lt;p&gt;Given my desire to work on local Civitas during 2016 this post has given me some really good ideas and inspired me to think that change is possible - especially if you focus on creating the infrastructure for the community to create the change themselves.&lt;/p&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;https://newrepublic.com/article/124470/hacking-city&quot;&gt;Hacking the City&lt;/a&gt;&lt;/p&gt;
 
@@ -164,25 +166,27 @@
     
       <item>
         <title>There’s a blockchain for that!</title>
-        <description>&lt;p&gt;An interesting read on what might be possible with the blockchain. There&amp;#39;s some interesting ideas in here - and a few that I tought were left unexplored. In particular the idea of a blockchain based identity management system - a decentralised passport for your online identity (I made a comment on the post if you want to join in). The kind of thing that Mozilla&amp;#39;s Persona never became. &lt;/p&gt;
+        <description>&lt;p&gt;An interesting read on what might be possible with the blockchain. There’s some interesting ideas in here - and a few that I tought were left unexplored. In particular the idea of a blockchain based identity management system - a decentralised passport for your online identity (I made a comment on the post if you want to join in). The kind of thing that Mozilla’s Persona never became.&lt;/p&gt;
 
 &lt;p&gt;The area of potential for big change via the blockchain is in the financial sector. The article notes:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;A blockchain-powered economy is most likely to take root far away from the U.S., many observers believe — either in the developing world, where there’s less of a reliable financial system in place, or in places where property rules and contract law have shaky foundations (think Russia or China). Wherever it starts to take off, it will face the twin hurdles of complexity overload and government pushback.&lt;/p&gt;
+  &lt;p&gt;A blockchain-powered economy is most likely to take root far away from the U.S., many observers believe — either in the developing world, where there’s less of a reliable financial system in place, or in places where property rules and contract law have shaky foundations (think Russia or China). Wherever it starts to take off, it will face the twin hurdles of complexity overload and government pushback.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Given the uptake of mobile transactions in Africa I&amp;#39;d say that this is perhaps a more likely location. Companies like &lt;a href=&quot;https://en.wikipedia.org/wiki/M-Pesa&quot;&gt;M-Pesa&lt;/a&gt; rapidly grew because they took advantage of the abundance of simple mobile phones, coverage and a banking system that didn&amp;#39;t service the public. At the same time the lack of trust in the financial systems in the West might make it a likely breeding ground for this kind of system to be taken up. If someone comes up with a more localised system - one that worked within a community for simple trade and bypassed the cut that &amp;quot;middleman&amp;quot; models of Mastercard and Visa take you might be onto a winner. &lt;/p&gt;
+&lt;p&gt;Given the uptake of mobile transactions in Africa I’d say that this is perhaps a more likely location. Companies like &lt;a href=&quot;https://en.wikipedia.org/wiki/M-Pesa&quot;&gt;M-Pesa&lt;/a&gt; rapidly grew because they took advantage of the abundance of simple mobile phones, coverage and a banking system that didn’t service the public. At the same time the lack of trust in the financial systems in the West might make it a likely breeding ground for this kind of system to be taken up. If someone comes up with a more localised system - one that worked within a community for simple trade and bypassed the cut that “middleman” models of Mastercard and Visa take you might be onto a winner.&lt;/p&gt;
 
-&lt;p&gt;But perhaps it&amp;#39;s Maciej Ceglowski&amp;#39;s thoughts that are the most interesting... &lt;/p&gt;
+&lt;p&gt;But perhaps it’s Maciej Ceglowski’s thoughts that are the most interesting…&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;“There is a tendency in computer-land to seek technical solutions to political problems,” Ceglowski says. “In my opinion, the focus on the blockchain (and related ideas) falls into that misguided category. The idea that we should look to algorithms and technology to reclaim our freedoms is fundamentally undemocratic. It presupposes a technical elite who would ‘fix the Internet’ for everyone else. While I can see how this appeals to romantic ideas of hacking the system, I see it as a dangerous trend at worst, and a distraction at best.&lt;/p&gt;
-
-&lt;p&gt;“We are terrible at predicting the social outcomes of technological innovation. There’s no reason Bitcoin-like distributed systems would be immune from that rule. I say let’s wise up and actually fight this battle on the level where it belongs.”&lt;/p&gt;
+  &lt;p&gt;“There is a tendency in computer-land to seek technical solutions to political problems,” Ceglowski says. “In my opinion, the focus on the blockchain (and related ideas) falls into that misguided category. The idea that we should look to algorithms and technology to reclaim our freedoms is fundamentally undemocratic. It presupposes a technical elite who would ‘fix the Internet’ for everyone else. While I can see how this appeals to romantic ideas of hacking the system, I see it as a dangerous trend at worst, and a distraction at best.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;My feelings: I think Maciej is right - technology itself won&amp;#39;t fix anything &lt;strong&gt;on it&amp;#39;s own&lt;/strong&gt;. But technology can be a player, an enabler, an infrastructure on which to build change. Building technology that doesn&amp;#39;t rely on centralised control enables very different systems and applications to emerge. Decentralised systems undermine centralised control and erode their power structures. It&amp;#39;s the beginning of something bigger.  &lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“We are terrible at predicting the social outcomes of technological innovation. There’s no reason Bitcoin-like distributed systems would be immune from that rule. I say let’s wise up and actually fight this battle on the level where it belongs.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;My feelings: I think Maciej is right - technology itself won’t fix anything &lt;strong&gt;on it’s own&lt;/strong&gt;. But technology can be a player, an enabler, an infrastructure on which to build change. Building technology that doesn’t rely on centralised control enables very different systems and applications to emerge. Decentralised systems undermine centralised control and erode their power structures. It’s the beginning of something bigger.&lt;/p&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;https://medium.com/backchannel/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67#.ce49wbabr&quot;&gt;There’s a blockchain for that!&lt;/a&gt;&lt;/p&gt;
 
@@ -201,18 +205,18 @@
     
       <item>
         <title>Yoda Is Dead but Star Wars’ Dubious Lessons Live On</title>
-        <description>&lt;p&gt;This interview with science fiction writer David Brin about Star Wars is incredibly enlightening. I have not given much thought to the plot (and plot holes) of Star Wars in general. Partly because I don&amp;#39;t care to intellectualise the movies beyond what they are and partly because of how bad the prequel movies were it was worth not reliving. What I particularly enjoyed in this article was the deconstruction of Yoda, not as some kind of zen master but as evil overlord. &lt;/p&gt;
+        <description>&lt;p&gt;This interview with science fiction writer David Brin about Star Wars is incredibly enlightening. I have not given much thought to the plot (and plot holes) of Star Wars in general. Partly because I don’t care to intellectualise the movies beyond what they are and partly because of how bad the prequel movies were it was worth not reliving. What I particularly enjoyed in this article was the deconstruction of Yoda, not as some kind of zen master but as evil overlord.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Yoda, in Attack of the Clones, orders the Jedi into a suicide charge that kills most of them, then conveniently shows up with the new clone army that he ordered. An act of treachery and betrayal so stunning that I had to watch the movie twice.&lt;/p&gt;
+  &lt;p&gt;Yoda, in Attack of the Clones, orders the Jedi into a suicide charge that kills most of them, then conveniently shows up with the new clone army that he ordered. An act of treachery and betrayal so stunning that I had to watch the movie twice.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I always had an issue with the jump Anakin made from being slightly disconcerted with the Jedi hierachy to killing a room full of kids but Yoda&amp;#39;s got nothing on that.&lt;/p&gt;
+&lt;p&gt;I always had an issue with the jump Anakin made from being slightly disconcerted with the Jedi hierachy to killing a room full of kids but Yoda’s got nothing on that.&lt;/p&gt;
 
-&lt;p&gt;And on Yoda&amp;#39;s contiuning screw ups:&lt;/p&gt;
+&lt;p&gt;And on Yoda’s contiuning screw ups:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Mace Windu, on the other hand, is the only intelligent Jedi depicted in any film. He found evidence of Senator Palpatine’s plot. Mace wanted to tell the Republic—Yoda overruled him. When all the other Jedi are falling into a stupid trap ordered by Yoda, Mace is the one who does his job as a secret agent, sneaks up to the balcony, and puts a light saber to the bad guy’s throat. If one Jedi more had accompanied him, it would’ve been over. Mace, in confronting Palpatine, was the only one who tries to do what the Jedi are supposed to do, but he fails because Yoda screwed up the training of the dangerous apprentice, Anakin, and orders the Jedi to do a frontal assault into an arena filled with a hundred thousand laser wielding enemies.&lt;/p&gt;
+  &lt;p&gt;Mace Windu, on the other hand, is the only intelligent Jedi depicted in any film. He found evidence of Senator Palpatine’s plot. Mace wanted to tell the Republic—Yoda overruled him. When all the other Jedi are falling into a stupid trap ordered by Yoda, Mace is the one who does his job as a secret agent, sneaks up to the balcony, and puts a light saber to the bad guy’s throat. If one Jedi more had accompanied him, it would’ve been over. Mace, in confronting Palpatine, was the only one who tries to do what the Jedi are supposed to do, but he fails because Yoda screwed up the training of the dangerous apprentice, Anakin, and orders the Jedi to do a frontal assault into an arena filled with a hundred thousand laser wielding enemies.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;http://nautil.us/blog/yoda-is-dead-but-star-wars-dubious-lessons-live-on&quot;&gt;Yoda Is Dead but Star Wars’ Dubious Lessons Live On&lt;/a&gt;&lt;/p&gt;
@@ -238,23 +242,23 @@
     
       <item>
         <title>Learning is Not a Mechanism: Assessment, Student Agency, and Digital Spaces</title>
-        <description>&lt;p&gt;If you&amp;#39;re interested in Digital Pedagogy and the discussion around it you need not look further than the work of Jessie Stommel. He&amp;#39;s perhaps my favourite writer and provocateur on the subject. Always clear concise and thought provoking Jesse has an amazing way of bringing together the practices of teaching, the systems of education and the ways we merge these with technology and learning. &lt;/p&gt;
+        <description>&lt;p&gt;If you’re interested in Digital Pedagogy and the discussion around it you need not look further than the work of Jessie Stommel. He’s perhaps my favourite writer and provocateur on the subject. Always clear concise and thought provoking Jesse has an amazing way of bringing together the practices of teaching, the systems of education and the ways we merge these with technology and learning.&lt;/p&gt;
 
-&lt;p&gt;This slidedeck seems to be more of a visually supported essay (one who&amp;#39;s format I&amp;#39;m going to take note of) and delves into the word of Assessment. Assessment is very much at the heart of todays education system whether we like it or not and it impacts K-12 all the way through to Higher Ed. The system we&amp;#39;ve created to &amp;quot;measure learning&amp;quot; (because I am sceptical that it actually does this) is predicated on placing a numerical value on learning - an abstraction of a proxy of a complex, multi-temporal, biological function. I find it incredible that we seek to simplify this function rather than embrace it&amp;#39;s beauty and complexity. &lt;/p&gt;
+&lt;p&gt;This slidedeck seems to be more of a visually supported essay (one who’s format I’m going to take note of) and delves into the word of Assessment. Assessment is very much at the heart of todays education system whether we like it or not and it impacts K-12 all the way through to Higher Ed. The system we’ve created to “measure learning” (because I am sceptical that it actually does this) is predicated on placing a numerical value on learning - an abstraction of a proxy of a complex, multi-temporal, biological function. I find it incredible that we seek to simplify this function rather than embrace it’s beauty and complexity.&lt;/p&gt;
 
-&lt;p&gt;Jesse&amp;#39;s article is incredibly insightful:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We’ve built an impenetrable phalanx of clarity, certainty, and defensibility. There is no space for student agency in a system of incessant grading, ranking, and scoring. The grade takes the complexity of human interaction within a learning environment and makes it machine-readable: [A/A-] [A-/B+] [F+] [97%] [59%] [18/20] [10/20]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;While I&amp;#39;m not opposed to a grading system - in the sense of a standardised system that facilitates transactions and transparency - what we have now is very much a bastardised version of that. Where the aim of learning is the grade, rather than it acting as a compass. &lt;/p&gt;
+&lt;p&gt;Jesse’s article is incredibly insightful:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Can we work to design a new approach to assessment within digital systems that focuses on formative rather than summative assessment, intrinsic rather than extrinsic motivation, relationships rather than ranking, emergence rather than predetermined outcomes?&lt;/p&gt;
+  &lt;p&gt;We’ve built an impenetrable phalanx of clarity, certainty, and defensibility. There is no space for student agency in a system of incessant grading, ranking, and scoring. The grade takes the complexity of human interaction within a learning environment and makes it machine-readable: [A/A-] [A-/B+] [F+] [97%] [59%] [18/20] [10/20]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Jesse goes on to argue the case for greater student agency, for students to be part of the actual process of &amp;quot;learning&amp;quot; rather than the recipients of &amp;quot;it&amp;quot;.&lt;/p&gt;
+&lt;p&gt;While I’m not opposed to a grading system - in the sense of a standardised system that facilitates transactions and transparency - what we have now is very much a bastardised version of that. Where the aim of learning is the grade, rather than it acting as a compass.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Can we work to design a new approach to assessment within digital systems that focuses on formative rather than summative assessment, intrinsic rather than extrinsic motivation, relationships rather than ranking, emergence rather than predetermined outcomes?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jesse goes on to argue the case for greater student agency, for students to be part of the actual process of “learning” rather than the recipients of “it”.&lt;/p&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;http://www.slideshare.net/jessestommel/learning-is-not-a-mechanism-assessment-student-agency-and-digital-spaces&quot;&gt;Learning is Not a Mechanism: Assessment, Student Agency, and Digital Spaces&lt;/a&gt;&lt;/p&gt;
 
@@ -279,27 +283,27 @@
     
       <item>
         <title>We’re all data now</title>
-        <description>&lt;p&gt;This podcast is a discussion on Big Data from a legal perspective. There&amp;#39;s some really interesting points here - in particular about the legal lens we operate under. The US focusses on National Security, the EU through Privacy but it would be interesting to see it persued as Property.&lt;/p&gt;
+        <description>&lt;p&gt;This podcast is a discussion on Big Data from a legal perspective. There’s some really interesting points here - in particular about the legal lens we operate under. The US focusses on National Security, the EU through Privacy but it would be interesting to see it persued as Property.&lt;/p&gt;
 
 &lt;p&gt;But what I really got out of this was an interesting way of understanding why Big Data has become such a popular and messianic figure in our culture. As Annelise Riles states:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;What I noticed was that after the 2008 crisis, regulators started to lose confidence in their own understanding of how the market worked. And at the same time, because they had been trained in that neoliberal era they also didn&amp;#39;t have confidence in government planning because the whole neoliberal idea was governments don&amp;#39;t know how to plan. So imagine what it&amp;#39;s like to be a regulator in that situation. You simply have no idea how to control this market.&lt;/p&gt;
+  &lt;p&gt;What I noticed was that after the 2008 crisis, regulators started to lose confidence in their own understanding of how the market worked. And at the same time, because they had been trained in that neoliberal era they also didn’t have confidence in government planning because the whole neoliberal idea was governments don’t know how to plan. So imagine what it’s like to be a regulator in that situation. You simply have no idea how to control this market.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I&amp;#39;d relate this observation back to complexity. Complex systems don&amp;#39;t allow you to control anything in the same way that a hierarchical, simple or even complicated system would. Big data is becoming the way in which people are being fooled into thinking that control has been regained.&lt;/p&gt;
+&lt;p&gt;I’d relate this observation back to complexity. Complex systems don’t allow you to control anything in the same way that a hierarchical, simple or even complicated system would. Big data is becoming the way in which people are being fooled into thinking that control has been regained.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;So I think that that idea that big data can save us from the failures of our expertise is not unique to finance. And in fact just for ordinary people, perhaps when we lose our confidence in how to choose a university or which flavour of ice cream to buy or how to choose a sexual partner, we suddenly turn to big data as a way of getting us out of our loss of expertise. So I see this turn to big data as a symptom of our sense that perhaps we&amp;#39;ve lost our foundations in other areas.&lt;/p&gt;
+  &lt;p&gt;So I think that that idea that big data can save us from the failures of our expertise is not unique to finance. And in fact just for ordinary people, perhaps when we lose our confidence in how to choose a university or which flavour of ice cream to buy or how to choose a sexual partner, we suddenly turn to big data as a way of getting us out of our loss of expertise. So I see this turn to big data as a symptom of our sense that perhaps we’ve lost our foundations in other areas.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Over the last few decades (not just since 2008) expertise and insight have been slowly eroded by economic ideals. That everything can be simplified into a cell in a spreadsheet and a number attached to it. This simplification of complexity has done innumerable damage to our economies, societies, communities, morals and ethics that plays out in the black &amp;amp; white binaries of the media. We&amp;#39;ve lost any sense or appreciation of the complex. Instead of embracing it we sort to control it, to simplify it and establish it as ours. Big Data offers just that promise - but as with every attempt before it, economic, political, religious - will fail because it doesn&amp;#39;t fit. Instead it ends up contradicting itself. As Ian Bogost noted:&lt;/p&gt;
+&lt;p&gt;Over the last few decades (not just since 2008) expertise and insight have been slowly eroded by economic ideals. That everything can be simplified into a cell in a spreadsheet and a number attached to it. This simplification of complexity has done innumerable damage to our economies, societies, communities, morals and ethics that plays out in the black &amp;amp; white binaries of the media. We’ve lost any sense or appreciation of the complex. Instead of embracing it we sort to control it, to simplify it and establish it as ours. Big Data offers just that promise - but as with every attempt before it, economic, political, religious - will fail because it doesn’t fit. Instead it ends up contradicting itself. As Ian Bogost noted:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;The thing about correlation vs causation is: statistical correlation is becoming causation. Transparency won&amp;#39;t help. #tyrannyofalgorithms&lt;/p&gt;
+  &lt;p&gt;The thing about correlation vs causation is: statistical correlation is becoming causation. Transparency won’t help. #tyrannyofalgorithms&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;http://www.abc.net.au/radionational/programs/futuretense/we%E2%80%99re-all-data-now:-what-big-data-could-mean-for-law-&amp;amp;-policy/6988048&quot;&gt;We’re all data now: What Big Data could mean for law &amp;amp; policy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&quot;http://www.abc.net.au/radionational/programs/futuretense/we’re-all-data-now:-what-big-data-could-mean-for-law-&amp;amp;-policy/6988048&quot;&gt;We’re all data now: What Big Data could mean for law &amp;amp; policy&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Image: &lt;a href=&quot;https://flic.kr/p/gdLJnk&quot;&gt;data.path Ryoji.Ikeda - 2&lt;/a&gt; shared BY-SA&lt;/p&gt;
 </description>
@@ -326,41 +330,41 @@
     
       <item>
         <title>Dear Student</title>
-        <description>&lt;p&gt;This post from Jesse Stommel is extraordinarily good on a number of fronts that relate to my work and my way of thinking &amp;amp; being. &lt;/p&gt;
+        <description>&lt;p&gt;This post from Jesse Stommel is extraordinarily good on a number of fronts that relate to my work and my way of thinking &amp;amp; being.&lt;/p&gt;
 
-&lt;p&gt;The first is a link back to a previous post about what the &amp;quot;casualisation&amp;quot; of a workforce does to the workplace:&lt;/p&gt;
+&lt;p&gt;The first is a link back to a previous post about what the “casualisation” of a workforce does to the workplace:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;They are oppressed by a system that calls 75% of its labor-force ‘unnecessary,’ ‘contingent,’ ‘adjunct.’ &lt;/p&gt;
+  &lt;p&gt;They are oppressed by a system that calls 75% of its labor-force ‘unnecessary,’ ‘contingent,’ ‘adjunct.’&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;That&amp;#39;s pretty harrowing stuff there, but it&amp;#39;s true. The economic rationalism that most universities and governments are now run by extolls these exonomic virtues at the expence of the humanity it should represent. &lt;/p&gt;
+&lt;p&gt;That’s pretty harrowing stuff there, but it’s true. The economic rationalism that most universities and governments are now run by extolls these exonomic virtues at the expence of the humanity it should represent.&lt;/p&gt;
 
 &lt;p&gt;This leads nicely into a quote from the &lt;em&gt;Obedience to Authority&lt;/em&gt; by Stanley Milgram:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Each individual possesses a conscience which to a greater or lesser degree serves to restrain the unimpeded flow of impulses destructive to others. But when he merges his person into an organizational structure, a new creature replaces autonomous man, unhindered by the limitations of individual morality, freed of humane inhibition, mindful only of the sanctions of authority.&lt;/p&gt;
+  &lt;p&gt;Each individual possesses a conscience which to a greater or lesser degree serves to restrain the unimpeded flow of impulses destructive to others. But when he merges his person into an organizational structure, a new creature replaces autonomous man, unhindered by the limitations of individual morality, freed of humane inhibition, mindful only of the sanctions of authority.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The economic system has become the authority that allows us to throw away our humanity. It&amp;#39;s the justification for denying people good working conditions rather than operating within our actual means. I put this back to one of my contentious ideas: that the human default is to construct systems based on hierarchy and it is this that leads us into unthinking and uncaring obedience. &lt;/p&gt;
+&lt;p&gt;The economic system has become the authority that allows us to throw away our humanity. It’s the justification for denying people good working conditions rather than operating within our actual means. I put this back to one of my contentious ideas: that the human default is to construct systems based on hierarchy and it is this that leads us into unthinking and uncaring obedience.&lt;/p&gt;
 
 &lt;p&gt;If we can begin to have real discussions about these kinds of systemic problems then we are in effect throwing off the burden of the hierarcy. That to fix systemic problems it requires the relinquish of control, to hand over autonomy and begin to empower the individual. As Jesse suggests later in the post:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;We have built an almost ironclad academic system — and I acknowledge myself as one of its privileged builders — a system which excludes the voices of students, which calls students ‘customers’ while monetizing their intellectual property, which denigrates the work of learning through assessment mechanisms and credentialing pyramid schemes.” This is not a system that empowers students. &lt;/p&gt;
+  &lt;p&gt;We have built an almost ironclad academic system — and I acknowledge myself as one of its privileged builders — a system which excludes the voices of students, which calls students ‘customers’ while monetizing their intellectual property, which denigrates the work of learning through assessment mechanisms and credentialing pyramid schemes.” This is not a system that empowers students.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I found the concept in the last paragraph particularly interesting: &lt;/p&gt;
+&lt;p&gt;I found the concept in the last paragraph particularly interesting:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;There must be what Paulo Freire calls “teacher-students.” Specifically, he writes, “no one teaches another, nor is anyone self-taught.” So, “teacher” becomes a role that shifts, and learning depends upon a community of teacher-students. Any authority within the space must be aimed at fostering agency in all the members of the community. And this depends on a recognition of the power dynamics and hierarchies that this kind of learning environment must actively and continuously work against. &lt;/p&gt;
+  &lt;p&gt;There must be what Paulo Freire calls “teacher-students.” Specifically, he writes, “no one teaches another, nor is anyone self-taught.” So, “teacher” becomes a role that shifts, and learning depends upon a community of teacher-students. Any authority within the space must be aimed at fostering agency in all the members of the community. And this depends on a recognition of the power dynamics and hierarchies that this kind of learning environment must actively and continuously work against.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;And I wonder what that kind of an education system might look like and can&amp;#39;t help but think - like nothing we have today. &lt;/p&gt;
+&lt;p&gt;And I wonder what that kind of an education system might look like and can’t help but think - like nothing we have today.&lt;/p&gt;
 
 &lt;p&gt;Source: &lt;a href=&quot;http://jessestommel.com/dear-student/&quot;&gt;Dear Student&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Image: &lt;a href=&quot;https://www.flickr.com/photos/uimagine/23159240520/in/album-72157661769517241/&quot;&gt;Locating the Student&lt;/a&gt; shared BY-NC &lt;/p&gt;
+&lt;p&gt;Image: &lt;a href=&quot;https://www.flickr.com/photos/uimagine/23159240520/in/album-72157661769517241/&quot;&gt;Locating the Student&lt;/a&gt; shared BY-NC&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Jan 2016 23:07:00 +1100</pubDate>
         <link>http://inhal.es/post/2016/01/04/dear-student.html</link>
@@ -383,13 +387,13 @@
     
       <item>
         <title>End the Gun Epidemic in America</title>
-        <description>&lt;p&gt;This opinion piece was on the front page of the New York Times. I don&amp;#39;t understand the gun culture of America, to me it&amp;#39;s as dissonant and illogical as fundamentalist religions. But this, this quote cuts through all the bullshit:&lt;/p&gt;
+        <description>&lt;p&gt;This opinion piece was on the front page of the New York Times. I don’t understand the gun culture of America, to me it’s as dissonant and illogical as fundamentalist religions. But this, this quote cuts through all the bullshit:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;It is a moral outrage and a national disgrace that civilians can legally purchase weapons designed specifically to kill people with brutal speed and efficiency. These are weapons of war, barely modified and deliberately marketed as tools of macho vigilantism and even insurrection. &lt;/p&gt;
+  &lt;p&gt;It is a moral outrage and a national disgrace that civilians can legally purchase weapons designed specifically to kill people with brutal speed and efficiency. These are weapons of war, barely modified and deliberately marketed as tools of macho vigilantism and even insurrection.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Putting weapons of war into a civilian population will result in death, that&amp;#39;s what they were designed to do. This is not about protection, safety or independence, this is willing death in to your own community.  &lt;/p&gt;
+&lt;p&gt;Putting weapons of war into a civilian population will result in death, that’s what they were designed to do. This is not about protection, safety or independence, this is willing death in to your own community.&lt;/p&gt;
 
 &lt;p&gt;Source: http://mobile.nytimes.com/redirect?to-mobile=http%3A%2F%2Fwww.nytimes.com%2F2015%2F12%2F05%2Fopinion%2Fend-the-gun-epidemic-in-america.html%3Freferer%3D&lt;/p&gt;
 
