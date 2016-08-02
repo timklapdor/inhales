@@ -21,6 +21,6 @@ Data has no worth when it has become ubiquitous. There was an attempt to make da
 It all boils down to money. Creating a way of extracting value through the creation of a commodity. Extracting value regardless of the consequences. Fuck the forest, fuck the city, fuck the ecosystem, fuck the planet - and fuck the people. 
 
 
-Source: [Why High-Skilled Freelancers Are Leaving Corporate Life Behind](http://www.fastcompany.com/3059898/the-future-of-work/how-high-skilled-freelancers-are-changing-the-rules-recruiting)
+Source: [Episode 16: Weaponized Transparency](http://podcast.techgypsi.es/2016/07/31/episode-16) 
  
 Image: [Through the Drinking Glass (1)](https://flic.kr/p/a7bhCM) by Ze'ev Barkan CC-BY
