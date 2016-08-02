@@ -4,7 +4,7 @@ layout: post
 date: 2016-08-02 22:20:00 +1100
 categories: post
 tags: [privacy, tech gypsy, transparency, weaponised,  surveillance, ]
-image: /assets/article_images/transparent.jpg
+image: /assets/article_images/transparency.jpg
 published: true
 title: "Weaponized Transparency"
 
