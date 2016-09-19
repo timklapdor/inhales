@@ -1,7 +1,7 @@
 ---
 
 layout: post
-date: 2016-09-19 14370:00 +1100
+date: 2016-09-19 14:37:00 +1100
 categories: post
 tags: [learning, education, design, structure ]
 image: /assets/article_images/bio-dome.jpg
