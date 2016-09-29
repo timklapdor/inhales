@@ -19,6 +19,9 @@ name: 'Tim Klapdor'
 author: 'Tim Klapdor'
 author_image: "/assets/images/closeup-240.jpg"
 
+# Gems
+gems: [jekyll-paginate]
+
 paginate: 20
 
 # social icons and sharing options
